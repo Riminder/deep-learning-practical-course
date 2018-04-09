@@ -15,6 +15,7 @@ Introduction to Deep Learning from theory to deployment
 
 All courses of spring 2018 will take place at Ecole Polytechnique Palaiseau from 6:30 pm to 7:45pm.
 
-* Registrations
+# Registration
 
 Please follow this link for RSVP : https://docs.google.com/forms/d/19YqBXeb5GH9oxfqI8yHVuanRYe-73i_2psPjjxfD5fs/prefill
+
