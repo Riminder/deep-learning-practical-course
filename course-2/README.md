@@ -1,15 +1,13 @@
-# DEEP LEARNING IN COMPUTER VISION
+# Deep Learning in Computer Vision
 
-Introduction to Deep Learning from theory to deployment
-
-# Outline
+## Outline
 
 - Computer vision overview
 - Deep learning for image classification
 - Deep learning for object detection and semantic segmentation
 - Human versus Machine
 
-# Sources
+## Sources
 
 - https://medium.com/@alonbonder/ces-2018-computer-vision-takes-center-stage-9abca8a2546d
 - http://cs231n.github.io/classification/
