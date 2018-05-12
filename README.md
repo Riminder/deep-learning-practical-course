@@ -7,9 +7,9 @@ Introduction to Deep Learning from theory to deployment
 - course 1 (05-04-18): Introduction to Deep Learning - Mouhidine SEIV (Riminder)
 - Course 2 (12-04-18): Deep Learning in Computer Vision - Slim FRIKHA (Riminder)
 - Course 3 (19-04-18): Deep Learning in NLP - Paul COURSAUX  (Riminder)
-- Course 4 (02-05-18): Introduction to Deep Learning Frameworks - Olivier MOINDROT (Stanford)
-- Course 5 (10-05-18): Efficient Methods and Compression for Deep Learning - Antoine BIARD (Reminiz)
-- Course 6 (17-05-18): Deployment in Production and Parallel Computing - INVITED GUEST
+- Course 4 (03-05-18): Introduction to Deep Learning Frameworks - Olivier MOINDROT (Stanford)
+- Course 5 (17-05-18): Efficient Methods and Compression for Deep Learning - Antoine BIARD (Reminiz)
+- Course 6 (24-05-18): Deployment in Production and Parallel Computing - INVITED GUEST
 
 # Logistics
 
